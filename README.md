@@ -16,3 +16,8 @@ Because it allows others to copy and paste their code to replicate or research i
 ## References
 
 - [github Flavoured Markdown] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+| Name | Shortcode | Emoji |
+| ---| --- | --- |
+| Cloud | `:cloud:` \ | `:cloud:|
+| Cloud with lightingning | `⛈️ |
